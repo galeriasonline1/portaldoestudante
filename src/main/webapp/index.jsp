@@ -5,7 +5,7 @@ a
 <head>
 <meta http-equiv="Content-Language" content="pt-br">
 <meta http-equiv="Content-Type"
-	content="text/html; charset=ISO-8859-1">
+	content="text/html; charset=UTF-8">
 <title>Portal do Estudante UNIFACS</title>
 
 <style type="text/css">
