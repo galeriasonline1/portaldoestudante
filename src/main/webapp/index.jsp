@@ -161,7 +161,7 @@ body {
 																<td height="20" align=center><font color="#808080"
 																	size="1">--------------------------------------------------------<br></font>
 																	<font color="#808080" style="font-size: 7pt">Caso
-																		não saiba sua senha procure a <br>Coordenação do
+																		n&atildeo saiba sua senha procure a <br>Coordena&ccedil&atildeo do
 																		seu Curso
 																</font><br /> <br /> <br /></td>
 															</tr>
