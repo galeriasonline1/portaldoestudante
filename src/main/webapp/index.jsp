@@ -131,7 +131,7 @@ body {
 																		</tr>
 																		<tr>
 																			<td align=left width="116" height="13">Login
-																				(matrícula)</td>
+																				(matr&iacutecula)</td>
 																		</tr>
 																		<tr>
 																			<td align=left width="116" height="13"><input
